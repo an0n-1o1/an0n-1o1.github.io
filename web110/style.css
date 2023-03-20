@@ -1,0 +1,15 @@
+body {
+  background-color: #4d81cf;
+}
+h1 {
+  color: #4dcf9b;
+  font-family: copperplate;
+  font-size: 30px;
+}
+p {
+  color: #cf5a4d;
+  font-family: monaco;
+  font-size: 15px;
+  border-style: dashed;
+  border-color: #4dcf5a;
+}
